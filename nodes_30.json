@@ -1,0 +1,1697 @@
+{
+  "connections": [
+    {
+      "fromMote": 1,
+      "toMote": 2,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 4,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 6,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 7,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 11,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 12,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 13,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 16,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 25,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 1,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 3,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 4,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 6,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 7,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 8,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 9,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 10,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 11,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 12,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 13,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 16,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 25,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 2,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 4,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 5,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 7,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 8,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 9,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 10,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 11,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 12,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 13,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 16,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 25,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 3,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 5,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 6,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 7,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 8,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 11,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 12,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 13,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 14,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 15,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 16,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 25,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 4,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 6,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 7,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 9,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 11,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 12,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 16,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 5,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 7,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 8,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 9,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 12,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 14,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 15,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 16,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 6,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 8,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 9,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 10,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 11,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 12,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 13,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 14,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 16,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 7,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 9,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 10,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 11,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 13,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 14,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 16,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 25,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 8,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 11,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 12,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 13,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 25,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 9,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 11,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 12,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 14,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 15,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 10,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 11,
+      "toMote": 13,
+      "pdr": 1
+    },
+    {
+      "fromMote": 11,
+      "toMote": 15,
+      "pdr": 1
+    },
+    {
+      "fromMote": 11,
+      "toMote": 16,
+      "pdr": 1
+    },
+    {
+      "fromMote": 11,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 11,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 11,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 11,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 11,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 11,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 11,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 13,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 14,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 15,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 16,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 25,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 12,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 14,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 13,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 14,
+      "toMote": 15,
+      "pdr": 1
+    },
+    {
+      "fromMote": 14,
+      "toMote": 16,
+      "pdr": 1
+    },
+    {
+      "fromMote": 14,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 14,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 14,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 14,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 14,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 14,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 14,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 14,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 14,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 15,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 15,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 15,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 15,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 15,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 15,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 15,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 15,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 16,
+      "toMote": 17,
+      "pdr": 1
+    },
+    {
+      "fromMote": 16,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 16,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 16,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 16,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 16,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 16,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 16,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 16,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 16,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 16,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 17,
+      "toMote": 18,
+      "pdr": 1
+    },
+    {
+      "fromMote": 17,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 17,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 17,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 17,
+      "toMote": 25,
+      "pdr": 1
+    },
+    {
+      "fromMote": 17,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 17,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 17,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 17,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 17,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 18,
+      "toMote": 19,
+      "pdr": 1
+    },
+    {
+      "fromMote": 18,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 18,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 18,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 18,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 18,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 18,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 18,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 18,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 18,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 18,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 19,
+      "toMote": 20,
+      "pdr": 1
+    },
+    {
+      "fromMote": 19,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 19,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 19,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 19,
+      "toMote": 25,
+      "pdr": 1
+    },
+    {
+      "fromMote": 19,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 19,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 20,
+      "toMote": 21,
+      "pdr": 1
+    },
+    {
+      "fromMote": 20,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 20,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 20,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 20,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 21,
+      "toMote": 22,
+      "pdr": 1
+    },
+    {
+      "fromMote": 21,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 21,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 21,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 21,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 21,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 22,
+      "toMote": 23,
+      "pdr": 1
+    },
+    {
+      "fromMote": 22,
+      "toMote": 25,
+      "pdr": 1
+    },
+    {
+      "fromMote": 22,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 22,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 22,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 22,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 23,
+      "toMote": 24,
+      "pdr": 1
+    },
+    {
+      "fromMote": 23,
+      "toMote": 25,
+      "pdr": 1
+    },
+    {
+      "fromMote": 23,
+      "toMote": 26,
+      "pdr": 1
+    },
+    {
+      "fromMote": 23,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 23,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 23,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 24,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 24,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 24,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 25,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 25,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 26,
+      "toMote": 27,
+      "pdr": 1
+    },
+    {
+      "fromMote": 26,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 26,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 27,
+      "toMote": 28,
+      "pdr": 1
+    },
+    {
+      "fromMote": 27,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 27,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 28,
+      "toMote": 29,
+      "pdr": 1
+    },
+    {
+      "fromMote": 28,
+      "toMote": 30,
+      "pdr": 1
+    },
+    {
+      "fromMote": 29,
+      "toMote": 30,
+      "pdr": 1
+    }
+  ],
+  "DAGrootList": [],
+  "motes": [
+    {
+      "lat": 37.875050253210816,
+      "lon": -122.25768780777248,
+      "id": 1
+    },
+    {
+      "lat": 37.87505233007857,
+      "lon": -122.2575057418701,
+      "id": 2
+    },
+    {
+      "lat": 37.8749518114008,
+      "lon": -122.25738692616927,
+      "id": 3
+    },
+    {
+      "lat": 37.875031179914494,
+      "lon": -122.25783528521568,
+      "id": 4
+    },
+    {
+      "lat": 37.8753065369379,
+      "lon": -122.25707900950364,
+      "id": 5
+    },
+    {
+      "lat": 37.8752320104046,
+      "lon": -122.25792497265466,
+      "id": 6
+    },
+    {
+      "lat": 37.87529736400574,
+      "lon": -122.25733558102966,
+      "id": 7
+    },
+    {
+      "lat": 37.87499092472078,
+      "lon": -122.25717912880245,
+      "id": 8
+    },
+    {
+      "lat": 37.874663705236145,
+      "lon": -122.25700618874897,
+      "id": 9
+    },
+    {
+      "lat": 37.87552558996875,
+      "lon": -122.25758747094231,
+      "id": 10
+    },
+    {
+      "lat": 37.87484444200217,
+      "lon": -122.25714925997737,
+      "id": 11
+    },
+    {
+      "lat": 37.87531896555143,
+      "lon": -122.25774763306212,
+      "id": 12
+    },
+    {
+      "lat": 37.87493557973204,
+      "lon": -122.25729952982415,
+      "id": 13
+    },
+    {
+      "lat": 37.875371330966146,
+      "lon": -122.25765945309472,
+      "id": 14
+    },
+    {
+      "lat": 37.87552292629199,
+      "lon": -122.25719856151564,
+      "id": 15
+    },
+    {
+      "lat": 37.87510627326478,
+      "lon": -122.25771552626453,
+      "id": 16
+    },
+    {
+      "lat": 37.87518355956281,
+      "lon": -122.2578513427592,
+      "id": 17
+    },
+    {
+      "lat": 37.8751036840036,
+      "lon": -122.25777395466041,
+      "id": 18
+    },
+    {
+      "lat": 37.874861001139344,
+      "lon": -122.25703221117631,
+      "id": 19
+    },
+    {
+      "lat": 37.874657852840684,
+      "lon": -122.25732092378999,
+      "id": 20
+    },
+    {
+      "lat": 37.87533314185352,
+      "lon": -122.25721321309884,
+      "id": 21
+    },
+    {
+      "lat": 37.87553034353182,
+      "lon": -122.25757803511529,
+      "id": 22
+    },
+    {
+      "lat": 37.87551286209784,
+      "lon": -122.25788763286633,
+      "id": 23
+    },
+    {
+      "lat": 37.87504182706134,
+      "lon": -122.25707693782846,
+      "id": 24
+    },
+    {
+      "lat": 37.87466222848161,
+      "lon": -122.25774800279028,
+      "id": 25
+    },
+    {
+      "lat": 37.87546513731447,
+      "lon": -122.25797159242501,
+      "id": 26
+    },
+    {
+      "lat": 37.87504027106932,
+      "lon": -122.25727844929077,
+      "id": 27
+    },
+    {
+      "lat": 37.8750617011941,
+      "lon": -122.25777333787678,
+      "id": 28
+    },
+    {
+      "lat": 37.87549894004547,
+      "lon": -122.25737753340938,
+      "id": 29
+    },
+    {
+      "lat": 37.87480923145202,
+      "lon": -122.25748327824193,
+      "id": 30
+    }
+  ]
+}

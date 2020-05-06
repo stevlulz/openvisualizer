@@ -88,7 +88,7 @@ def findSerialPorts(isIotMotes=False):
             tester.setTimeout(2)
             tester.test(blocking=True)
             if tester.getStats()['numOk'] >= 1:
-                mote_ports.append((port[0],BAUDRATE_LOCAL_BOARD))
+                mote_ports.append((port[0],BAUDRATE_LOCAL_BOARD));
             probe.close()
             probe.join()
     
@@ -414,13 +414,7 @@ class moteProbe(threading.Thread):
             )
         else:
             # write to serial
-            bytes_written = 0
-
-            if self.mode ==  self.MODE_SERIAL:
-                self.serial.flush()
-
-            while bytes_written != len(bytearray(hdlcData)):
-                bytes_written += self.serial.write(hdlcData)
+            self.serial.write(hdlcData)
 
     #==== mqtt callback functions
     
